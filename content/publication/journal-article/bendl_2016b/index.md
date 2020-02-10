@@ -29,7 +29,7 @@ summary: One-stop-shop portal for protein engineers aiming to improve protein st
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
