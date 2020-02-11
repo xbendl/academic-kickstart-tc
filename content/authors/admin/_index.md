@@ -18,7 +18,7 @@ organizations:
   url: "https://labs.icahn.mssm.edu/roussos-lab/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include bionformatics, neuropsychiatric, and neurological diseases.
 
 interests:
 - Neuropsychiatric and neurological diseases
@@ -47,20 +47,36 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jaroslav.bendl@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jaroslav-bendl-9aa41740/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jaroslav_Bendl
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=2x8JUYQAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/xbendl
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9989-2720
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=2x8JUYQAAAAJ&hl=en&oi=ao
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/myncbi/1Xsir7k6Qnjks/bibliography/public/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/200326/jaroslav-bendl/
+#- icon: 
+#  icon_pack: fab
+#  link: https://publons.com/researcher/200326/jaroslav-bendl/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jaroslav.bendl@gmail.com"
