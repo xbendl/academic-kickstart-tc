@@ -30,13 +30,19 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Brno University of Technology & Loschmidt Laboratories
+    institution: Brno University of Technology & Loschmidt Laboratories, Czechia
     year: 2016
+#  - course: PhD 3-month internship
+#    institution: Griffith University, Australia
+#    year: 2015
   - course: MSc in Computer Science
-    institution: Brno University of Technology
+    institution: Brno University of Technology, Czechia
+    year: 2011
+  - course: MSc 6-month internship 
+    institution: Norwegian University of Science and Technology, Norway
     year: 2011
   - course: BSc in Computer Science
-    institution: Brno University of Technology
+    institution: Brno University of Technology, Czechia
     year: 2009
 
 # Social/Academic Networking
@@ -88,4 +94,4 @@ user_groups:
 - Visitors
 ---
 
-Hey there! My name is Jaroslav Bendl and I am a Data Scientist at Icahn School of Medicine at Mount Sinai. My long term research interests involve the development of algorithms and pipelines focused on analysis of human genome. In my current position, I am specifically focused on neuropsychiatric and neurological disorders such as schizophrenia, depression, bipolar disease and Alzheimer’s disease. By combining molecular assays generated from postmortem human brains (genome, transcriptome, epigenome), I am trying to come up  with better explanation of genetic factors that carry the risk for those diseases and the mechanisms through which they act.
+Hey there! My name is Jaroslav Bendl and I am a Data Scientist at Icahn School of Medicine at Mount Sinai. My long term research interests involve the development of algorithms and pipelines focused on the analysis of the human genome. In my current position, I am specifically focused on neuropsychiatric and neurological disorders such as schizophrenia, depression, bipolar disease, and Alzheimer’s disease. By combining molecular assays generated from postmortem human brains (genome, transcriptome, epigenome), I am trying to come up  with a better explanation of genetic factors that carry the risk for those diseases and the mechanisms through which they act.

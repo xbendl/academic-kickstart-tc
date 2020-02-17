@@ -26,11 +26,11 @@ date_format = "Jan 2006"
   company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
   location = "New York, United States"
   date_start = "2017-01-01"
-  description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq) and genomics (WGS) data. """
+  description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
 
 [[experience]]
   title = "PhD candidate & Sofware developer"
-  company = "Loschmidt Laboratories"
+  company = "Loschmidt Laboratories at Masaryk University"
   company_url = "https://loschmidt.chemi.muni.cz/peg/"
   location = "Brno, Czech republic"
   date_start = "2012-01-01"
@@ -63,4 +63,14 @@ date_format = "Jan 2006"
 #  * [(Bachelor thesis) Trlica Jiri: Analysis of the Tools for Detecting Similarities between Tertiary Protein Structures](https://www.fit.vut.cz/study/thesis-file/15302/15302.pdf)
 #  * [(Bachelor thesis) Salanda Vojtech: Prediction of the Secondary Structure of Proteins by Cellular Automaton](https://www.fit.vut.cz/study/thesis-file/13748/13748.pdf)-->
   """
+
+[[experience]]
+  title = "Research visitor"
+  company = "Zhou Lab at Griffith University"
+  company_url = "https://sparks-lab.org/"
+  location = "Gold Coast, Australia"
+  date_start = "2015-04-01"
+  date_end = "2015-07-01"
+  description = """Development of computational predictor of mRNA half-life."""
+
 +++
