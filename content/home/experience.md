@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   location = "Brno, Czech republic"
   date_start = "2011-11-01"
   date_end = "2016-10-10"
-  description = """Lecturing bioinformatics practises + supervising of [bachelor and master theses](https://www.fit.vut.cz/study/theses/.en?stud=&sup=bendl&title=&keywd=&year=0&tlang=ALL&type=ALL) (5 out of 12 were awarded by Dean's prize; 2 were awarded at Excel@FIT conference)
+  description = """Lecturing bioinformatics practises + supervising of [bachelor and master theses](https://www.fit.vut.cz/study/theses/.en?stud=&sup=bendl&title=&keywd=&year=0&tlang=ALL&type=ALL) (5 out of 12 were awarded by Dean's prize; 3 were awarded at Excel@FIT conference)
 <!--  * [(Master thesis) Kadlec Miroslav: Prediction of Protein Stability upon Amino Acid Mutations Using Evolution Strategy](https://www.fit.vut.cz/study/thesis-file/17033/17033.pdf) 
 #  * [(Master thesis) Musil Milos: Predictor of the Effect of Amino Acid Substitutions on Protein Function](https://www.fit.vut.cz/study/thesis-file/16951/16951.pdf)
 #  * [(Master thesis) Salanda Ondrej: Prediction of the Effect of Nucleotide Substitution Using Machine Learning](https://www.fit.vut.cz/study/thesis-file/16983/16983.pdf)
@@ -71,6 +71,6 @@ date_format = "Jan 2006"
   location = "Gold Coast, Australia"
   date_start = "2015-04-01"
   date_end = "2015-07-01"
-  description = """Development of computational predictor of mRNA half-life."""
+  description = """Development of computational predictor of <a href="https://github.com/xbendl/mrna_stability" target="_blank">mRNA half-life</a>."""
 
 +++

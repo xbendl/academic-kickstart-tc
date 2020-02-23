@@ -38,7 +38,7 @@ education:
   - course: MSc in Computer Science
     institution: Brno University of Technology, Czechia
     year: 2011
-  - course: MSc 6-month internship 
+  - course: Spring semester internship 
     institution: Norwegian University of Science and Technology, Norway
     year: 2011
   - course: BSc in Computer Science
