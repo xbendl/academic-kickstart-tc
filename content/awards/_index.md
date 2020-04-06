@@ -38,7 +38,7 @@ header:
 
 | Date              | Media                    | Description            |
 | ------------------| -------------------------|------------------------|
-| 10/2016           | Inspired | <a href="https://www.egi.eu/wp-content/uploads/2016/08/Inspired-issue-15.pdf">Designing a toxic chemical-eating bacteria, between the lab and the computer</a> · starts at page 5 [EN] |
 | 08/2016           | Ceska televize           | <a href="https://www.ceskatelevize.cz/ivysilani/10122427178-udalosti-v-regionech-brno/316281381990825-udalosti-v-regionech/titulky">Presentation of PredictSNP portal</a> · starts at 06:13 [CZ] |
 | 08/2016           | MUNI online              | <a href="https://www.em.muni.cz/veda-a-vyzkum/8118-jak-predpovedet-vliv-mutaci-na-vznik-chorob-pomuze-novy-portal">New webserver allows prediction of mutation effect on human health</a> [CZ] |
 | 10/2016           | Zdravotnictvi a medicina | <a href="https://zdravi.euro.cz/clanek/novy-server-pomaha-pri-vyzkumu-genetickych-chorob-483210">New webserver for rare disease discovery</a> [CZ] |
+| 04/2014           | Inspired                 | <a href="https://www.egi.eu/wp-content/uploads/2016/08/Inspired-issue-15.pdf">Designing a toxic chemical-eating bacteria, between the lab and the computer</a> · starts at page 5 [EN] |

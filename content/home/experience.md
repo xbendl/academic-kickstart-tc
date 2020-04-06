@@ -19,13 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[experience]]
+  title = "Senior Scientist"
+  company = "Roussos Lab at Mount Sinai"
+  company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
+  location = "New York, United States"
+  date_start = "2020-01-01"
+  description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
 
 [[experience]]
-  title = "Postdoctoral Fellow → NARSAD Fellow → Data Scientist"
+  title = "Postdoctoral Fellow (NARSAD Fellowship)"
   company = "Roussos Lab at Mount Sinai"
   company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
   location = "New York, United States"
   date_start = "2017-01-01"
+  date_end = "2019-12-31"
   description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
 
 [[experience]]
