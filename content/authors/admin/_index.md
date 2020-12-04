@@ -96,4 +96,4 @@ user_groups:
 
 Hey there! My name is Jaroslav Bendl and I am a Data Scientist at Icahn School of Medicine at Mount Sinai. My long term research interests involve the development of algorithms and pipelines focused on the analysis of the human genome. In my current position, I am specifically focused on neuropsychiatric and neurological disorders such as schizophrenia, depression, bipolar disease, and Alzheimer’s disease. By combining molecular assays generated from postmortem human brains (genome, transcriptome, epigenome), I am trying to come up  with a better explanation of genetic factors that carry the risk for those diseases and the mechanisms through which they act.
 
-{{< video autoplay="true" loop="true" src="https://object.readmorejoy.com/self/1576392627610795.mp4" >}}
+{{< video autoplay="true" loop="true" src="movie.mp4" >}}
