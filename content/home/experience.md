@@ -20,11 +20,19 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "Roussos Lab at Mount Sinai"
+  company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
+  location = "New York, United States"
+  date_start = "2021-10-01"
+  description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
+
   title = "Senior Scientist"
   company = "Roussos Lab at Mount Sinai"
   company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
   location = "New York, United States"
   date_start = "2020-01-01"
+  date_end = "2021-09-30"
   description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
 
 [[experience]]
