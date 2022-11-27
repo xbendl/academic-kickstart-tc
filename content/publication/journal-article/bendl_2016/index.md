@@ -24,7 +24,7 @@ abstract: An important message taken from human genome sequencing projects is th
 
 
 # Summary. An optional shortened abstract.
-summary: Meta-predictor of the effect of nucleic acid substitution on human healt (rare diseases).
+summary: Meta-predictor of the effect of nucleic acid substitution on human health (rare diseases).
 
 tags:
 - Source Themes

@@ -13,6 +13,7 @@ header:
 
 | Date awarded      | Description                    |
 | ------------------| ------------------------------ |
+| 10/2021 - 10/2023 | <strong>AARF Fellowship</strong>, Alzheimer's Association<br/>Name of the project: Epigenetic and transcriptomics mechanisms of Alzheimer’s disease |
 | 01/2019 - 01/2021 | <strong>Young Investigator Award</strong>, The Brain & Behavior Research Foundation (NARSAD)<br/>Name of the project: Unraveling the Mechanism Underlying Bipolar Disorder by Integrated |
 
 
@@ -34,10 +35,15 @@ header:
 | 04/2016           | Finalist of Joseph fourier prize for computer sciences · French Embassy at Prague |
 
 
-<h2>My work in media</h2>
+<h2>Our work in media</h2>
 
 | Date              | Media                    | Description            |
 | ------------------| -------------------------|------------------------|
+| 10/2022           | SciTechDaily             | <a href="https://scitechdaily.com/what-makes-you-at-risk-for-alzheimers-researchers-have-new-insight/">What Makes You at Risk for Alzheimer’s? Researchers Have New Insight</a> [EN] |
+| 10/2022           | Genomeweb                | <a href="http://ct.moreover.com/?a=48842375676&p=1pl&v=1&x=ddcmr9H2XDTktVHnIUwjBw">Autism, ADHD Found to Have Overlapping and Distinct Genetic Contributions</a> [EN] |
+| 08/2022           | Drug Target Review       | <a href="http://ct.moreover.com/?a=48441579845&p=1pl&v=1&x=yJpEjHQ-kGhjGShQJWs0TQ">Novel insights into the genetic and molecular machinery that causes Alzheimer’s disease </a> [EN] |
+| 08/2022           | Medical Xpress       | <a href="https://medicalxpress.com/news/2022-04-chromatin-brains-patients-schizophrenia-bipolar.html">Study identifies chromatin alterations in the brains of patients with schizophrenia and bipolar disorder</a> [EN] |
+| 01/2021           | GenomeWeb                | <a href="http://ct.moreover.com/?a=45184877810&p=1pl&v=1&x=iYFvcmr_qudJwXs0Xp7O8g">GWAS Reveals New Loci Linked to Brain White Matter Microstructure</a> [EN]
 | 08/2016           | Ceska televize           | <a href="https://www.ceskatelevize.cz/ivysilani/10122427178-udalosti-v-regionech-brno/316281381990825-udalosti-v-regionech/titulky">Presentation of PredictSNP portal</a> · starts at 06:13 [CZ] |
 | 08/2016           | MUNI online              | <a href="https://www.em.muni.cz/veda-a-vyzkum/8118-jak-predpovedet-vliv-mutaci-na-vznik-chorob-pomuze-novy-portal">New webserver allows prediction of mutation effect on human health</a> [CZ] |
 | 10/2016           | Zdravotnictvi a medicina | <a href="https://zdravi.euro.cz/clanek/novy-server-pomaha-pri-vyzkumu-genetickych-chorob-483210">New webserver for rare disease discovery</a> [CZ] |

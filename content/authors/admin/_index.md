@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AARF Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -77,9 +77,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/200326/jaroslav-bendl/
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/200326/jaroslav-bendl/
 #- icon: 
 #  icon_pack: fab
 #  link: https://publons.com/researcher/200326/jaroslav-bendl/

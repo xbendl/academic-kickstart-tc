@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2021-10-01"
   description = """Development of computational pipeline for processing transcriptomics (RNA-seq), epigenomics (ATAC-seq, ChIP-seq), proteomics (MS) and genomics (WGS) data. """
 
+[[experience]]
   title = "Senior Scientist"
   company = "Roussos Lab at Mount Sinai"
   company_url = "https://labs.icahn.mssm.edu/roussos-lab/"
