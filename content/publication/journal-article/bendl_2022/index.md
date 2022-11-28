@@ -7,7 +7,7 @@ authors:
 - Kiran Girdhar*
 - Eunju Im
 - James M. Vicari
-- Samir Rahman 
+- Samir Rahman
 - Michael B. Fernando
 - Kayla G. Townsley
 - Pengfei Dong
