@@ -53,7 +53,7 @@ authors:
 - Anders D Børglum
 
 date: "2023-01-26"
-doi: "10.7554/eLife.65979"
+doi: "10.1038/s41588-022-01285-8"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -77,7 +77,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.nature.com/articles/s41588-022-01285-8'
+url_pdf: 'https://www.nature.com/articles/s41588-022-01285-8.pdf'
 url_code: ''
 url_dataset: 'https://www.med.unc.edu/pgc/download-results/'
 url_dataset: ''
