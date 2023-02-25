@@ -1,5 +1,5 @@
 ---
-title: "Genome-wide methylomic regulation of multiscale gene networks in Alzheimer's disease"
+title: "Genome-wide methylomic regulation of multiscale gene networks in Alzheimers disease"
 
 authors:
 - Erming Wang
@@ -30,7 +30,7 @@ doi: "10.1002/alz.12969"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Alzheimer's & Dementia"
+publication: "Alzheimers & Dementia"
 publication_short: ""
 
 abstract: Introduction: Recent studies revealed the association of abnormal methylomic changes with Alzheimer's disease (AD) but there is a lack of systematic study of the impact of methylomic alterations over the molecular networks underlying AD. Methods: We profiled genome-wide methylomic variations in the parahippocampal gyrus from 201 post mortem control, mild cognitive impaired, and AD brains. Results: We identified 270 distinct differentially methylated regions (DMRs) associated with AD. We quantified the impact of these DMRs on each gene and each protein as well as gene and protein co-expression networks. DNA methylation had a profound impact on both AD-associated gene/protein modules and their key regulators. We further integrated the matched multi-omics data to show the impact of DNA methylation on chromatin accessibility, which further modulates gene and protein expression. Discussion: The quantified impact of DNA methylation on gene and protein networks underlying AD identified potential upstream epigenetic regulators of AD.
