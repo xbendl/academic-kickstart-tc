@@ -39,6 +39,7 @@ header:
 
 | Date              | Media                    | Description            |
 | ------------------| -------------------------|------------------------|
+| 08/2023           | GenomeWeb                | <a href="https://www.genomeweb.com/scan/gwas-identifies-loci-linked-binge-eating-disorder">GWAS Identifies Loci Linked to Binge Eating Disorder</a> [EN] |
 | 02/2023           | Health Reporter          | <a href="https://health-reporter.news/researchers-identify-27-genetic-risk-variants-related-to-adhd/">Researchers Identify 27 Genetic Risk Variants Related To ADHD</a> [EN] |
 | 10/2022           | SciTechDaily             | <a href="https://scitechdaily.com/what-makes-you-at-risk-for-alzheimers-researchers-have-new-insight/">What Makes You at Risk for Alzheimer’s? Researchers Have New Insight</a> [EN] |
 | 10/2022           | Genomeweb                | <a href="http://ct.moreover.com/?a=48842375676&p=1pl&v=1&x=ddcmr9H2XDTktVHnIUwjBw">Autism, ADHD Found to Have Overlapping and Distinct Genetic Contributions</a> [EN] |
