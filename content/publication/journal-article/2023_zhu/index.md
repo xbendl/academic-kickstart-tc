@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.science.org/doi/reader/10.1126/sciadv.adg3754'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.adg3754'
 url_code: ''
 url_dataset: 'https://labs.icahn.mssm.edu/roussos-lab/3dg_dual_assay/'
 url_poster: ''
