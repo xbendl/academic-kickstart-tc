@@ -29,7 +29,7 @@ summary: General meta-predictor of the effect of amino acid substitution on the 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

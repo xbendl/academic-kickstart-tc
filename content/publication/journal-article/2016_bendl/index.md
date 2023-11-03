@@ -28,7 +28,7 @@ summary: Meta-predictor of the effect of nucleic acid substitution on human heal
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

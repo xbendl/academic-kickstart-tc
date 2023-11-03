@@ -22,7 +22,7 @@ authors:
 - Patrizia Casaccia
 
 date: "2023-09-08"
-doi: "10.1038/s41597-023-02507-2"
+doi: "10.1016/j.celrep.2023.112848"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

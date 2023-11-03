@@ -2,8 +2,8 @@
 title: "Activity-Dependent Transcriptional Program in NGN2+ Neurons Enriched for Genetic Risk for Brain-Related Disorders"
 
 authors:
-- Yixuan Ma
-- Jaroslav Bendl
+- Yixuan Ma*
+- Jaroslav Bendl*
 - Brigham J Hartley
 - John F Fullard
 - Rawan Abdelaal

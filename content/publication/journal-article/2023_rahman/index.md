@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad798/51956446/gkad798.pdf'
+url_pdf: 'https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad798/51956446/gkad798.pdf'
 url_code: ''
 url_dataset: 'https://www.synapse.org/#!Synapse:syn26164834'
 url_poster: ''

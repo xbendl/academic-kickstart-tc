@@ -19,7 +19,7 @@ authors:
 - Panos Roussos
 
 date: "2023-09-08"
-doi: "10.1016/j.celrep.2023.112848"
+doi: "10.1038/s41597-023-02507-2"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ featured: false
 #   url: ""
 url_pdf: 'https://www.nature.com/articles/s41597-023-02507-2.pdf'
 url_code: ''
-url_dataset: 'https://doi.org/10.7303/syn51180043.2.'
+url_dataset: 'https://www.synapse.org/#!Synapse:syn51180043/version/2'
 url_poster: ''
 url_project: ''
 url_slides: ''
