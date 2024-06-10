@@ -84,7 +84,7 @@ authors:
 - Daniel Geschwind
 - Mark Gerstein
 
-date: "2024/5/24"
+date: "2024-05-24"
 doi: "10.1126/science.adi5199"
 
 # Publication type.
@@ -105,7 +105,7 @@ summary: Our population-scale single-cell resource for the human brain can help 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

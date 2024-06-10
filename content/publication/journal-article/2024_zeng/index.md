@@ -3,7 +3,7 @@ title: "Genetic regulation of cell type–specific chromatin accessibility shape
 
 authors:
 - Biao Zeng*
-- Jaroslav Bendl
+- Jaroslav Bendl*
 - Chengyu Deng
 - Donghoon Lee
 - Ruth Misir
@@ -19,7 +19,7 @@ authors:
 - Panos Roussos
 
 
-date: "2024/5/24"
+date: "2024-05-24"
 doi: "10.1126/science.adh4265"
 
 # Publication type.
@@ -47,8 +47,8 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://doi.org/10.7303/syn25922167'
-url_dataset: ''
+url_code: ''
+url_dataset: 'https://doi.org/10.7303/syn25922167'
 url_poster: ''
 url_project: ''
 url_slides: ''

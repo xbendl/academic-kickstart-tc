@@ -20,7 +20,7 @@ authors:
 - Manolis Kellis
 
 
-date: "2024/5/24"
+date: "2024-05-24"
 doi: "10.1126/science.adg5136"
 
 # Publication type.
@@ -41,7 +41,7 @@ summary: Our results provide a valuable resource to investigate the molecular pa
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
