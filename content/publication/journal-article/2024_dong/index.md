@@ -40,7 +40,7 @@ summary: Brain gene regulation is key for neuropsychiatric disorders. Here, the 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
