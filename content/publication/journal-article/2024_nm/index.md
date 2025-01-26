@@ -25,7 +25,7 @@ authors:
 - Sabina Berretta
 - Vahram Haroutunian
 - William K. Scott
-- Jaroslav Bendl,
+- Jaroslav Bendl
 - Panos Roussos 
 
 date: "2024-11-23"
@@ -38,7 +38,7 @@ doi: "10.1038/s41597-024-04117-y"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science"
+publication: "Scientific Data"
 publication_short: ""
 
 abstract: Parkinson’s Disease (PD) is a debilitating neurodegenerative disorder, characterized by motor and cognitive impairments, that affects >1% of the population over the age of 60. The pathogenesis of PD is complex and remains largely unknown. Due to the cellular heterogeneity of the human brain and changes in cell type composition with disease progression, this complexity cannot be fully captured with bulk tissue studies. To address this, we generated single-nucleus RNA sequencing and whole-genome sequencing data from 100 postmortem cases and controls, carefully selected to represent the entire spectrum of PD neuropathological severity and diverse clinical symptoms. The single nucleus data were generated from five brain regions, capturing the subcortical and cortical spread of PD pathology. Rigorous preprocessing and quality control were applied to ensure data reliability. Committed to collaborative research and open science, this dataset is available on the AMP PD Knowledge Platform, offering researchers a valuable tool to explore the molecular bases of PD and accelerate advances in understanding and treating the disease.
