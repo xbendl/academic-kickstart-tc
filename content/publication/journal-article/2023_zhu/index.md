@@ -2,8 +2,8 @@
 title: "Multi-omic profiling of the developing human cerebral cortex at the single-cell level"
 
 authors:
-- Kaiyi Zhu
-- Jaroslav Bendl
+- Kaiyi Zhu*
+- Jaroslav Bendl*
 - Samir Rahman
 - James M Vicari
 - Claire Coleman
@@ -38,7 +38,7 @@ summary: Our results describe the complex regulation of cell composition at crit
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

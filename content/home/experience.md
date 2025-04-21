@@ -66,7 +66,20 @@ date_format = "Jan 2006"
   location = "Brno, Czech republic"
   date_start = "2011-11-01"
   date_end = "2016-10-10"
-  description = """Lecturing bioinformatics practises + supervising of [bachelor and master theses](https://www.fit.vut.cz/study/theses/.en?stud=&sup=bendl&title=&keywd=&year=0&tlang=ALL&type=ALL) (5 out of 12 were awarded by Dean's prize; 3 were awarded at Excel@FIT conference)"""
+  description = """Lecturing bioinformatics practises + supervising of [bachelor and master theses](https://www.fit.vut.cz/study/theses/.en?stud=&sup=bendl&title=&keywd=&year=0&tlang=ALL&type=ALL) (5 out of 12 were awarded by Dean's prize; 3 were awarded at Excel@FIT conference)
+<!--  * [(Master thesis) Kadlec Miroslav: Prediction of Protein Stability upon Amino Acid Mutations Using Evolution Strategy](https://www.fit.vut.cz/study/thesis-file/17033/17033.pdf) 
+#  * [(Master thesis) Musil Milos: Predictor of the Effect of Amino Acid Substitutions on Protein Function](https://www.fit.vut.cz/study/thesis-file/16951/16951.pdf)
+#  * [(Master thesis) Salanda Ondrej: Prediction of the Effect of Nucleotide Substitution Using Machine Learning](https://www.fit.vut.cz/study/thesis-file/16983/16983.pdf)
+#  * [(Master thesis) Malinka Frantisek: Prediction of Protein Stability upon Mutations Using Machine Learning](https://www.fit.vut.cz/study/thesis-file/15811/15811.pdf)
+#  * [(Master thesis) Pavlik David: Prediction of Protein Stability upon Mutations Using Evolution Strategy](https://www.fit.vut.cz/study/thesis-file/15810/15810.pdf)
+#  * [(Master thesis) Pelikan Ondrej: Predicting the Effect of Amino Acid Substitutions on Protein Function Using MAPP Method](https://www.fit.vut.cz/study/thesis-file/16136/16136.pdf)
+#  * [(Master thesis) Brigant Vladimir: Prediction of Secondary Structure of Proteins Using Cellular Automata](https://www.fit.vut.cz/study/thesis-file/14356/14356.pdf)
+#  * [(Master thesis) Hyrs Martin: Prediction of the Effect of Amino Acid Substitutions on Secondary Structure of Proteins](https://www.fit.vut.cz/study/thesis-file/14357/14357.pdf)
+#  * [(Bachelor thesis) Salanda Ondrej: Functional Annotation of Nucleotide Polymorphism Using Evolution Strategy](https://www.fit.vut.cz/study/thesis-file/14742/14742.pdf)
+#  * [(Bachelor thesis) Kadlec Miroslav: Prediction of the Effect of Amino Acid Substitutions on the Secondary Structure of Proteins](https://www.fit.vut.cz/study/thesis-file/15404/15404.pdf)
+#  * [(Bachelor thesis) Trlica Jiri: Analysis of the Tools for Detecting Similarities between Tertiary Protein Structures](https://www.fit.vut.cz/study/thesis-file/15302/15302.pdf)
+#  * [(Bachelor thesis) Salanda Vojtech: Prediction of the Secondary Structure of Proteins by Cellular Automaton](https://www.fit.vut.cz/study/thesis-file/13748/13748.pdf)-->
+  """
 
 [[experience]]
   title = "Research visitor"
