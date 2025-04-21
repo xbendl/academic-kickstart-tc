@@ -43,7 +43,7 @@ summary: Simultaneous profiling of RNA and chromatin accessibility in single nuc
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
